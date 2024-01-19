@@ -2,19 +2,19 @@
   <PropertyGroup>
     <FileVersion>1.0.0.0</FileVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0d202074-2578-4fc9-b55f-6d5f3bf86ee5}</ProjectGuid>
+    <ProjectGuid>{f9deed1d-0552-4e46-b170-09088b2597dc}</ProjectGuid>
     <SubObjectsSortedByName>True</SubObjectsSortedByName>
     <DownloadApplicationInfo>true</DownloadApplicationInfo>
     <WriteProductVersion>true</WriteProductVersion>
     <GenerateTpy>false</GenerateTpy>
-    <Name>FlashingLight</Name>
+    <Name>IPC_Control</Name>
     <ProgramVersion>3.1.4023.0</ProgramVersion>
-    <Application>{402d7741-3acc-4149-adee-c0319aaa77ac}</Application>
-    <TypeSystem>{f1f65781-d4ab-4cb5-8d1e-aea36cf6c01b}</TypeSystem>
-    <Implicit_Task_Info>{edeea53d-9477-47ab-8366-51d13f43d09e}</Implicit_Task_Info>
-    <Implicit_KindOfTask>{bd2dd86a-23e8-448a-a17c-5e2489879595}</Implicit_KindOfTask>
-    <Implicit_Jitter_Distribution>{3ee2f250-5969-4822-9422-7048d2eff05c}</Implicit_Jitter_Distribution>
-    <LibraryReferences>{5e2b8b83-8643-465a-8fcb-15b92ed546e2}</LibraryReferences>
+    <Application>{cdddaa4a-2909-4d2f-8026-c747cd903225}</Application>
+    <TypeSystem>{a980bf10-a6cd-4d4e-a139-3b344c4b5cc6}</TypeSystem>
+    <Implicit_Task_Info>{1a88878a-5f28-405e-a53e-87bbb593a571}</Implicit_Task_Info>
+    <Implicit_KindOfTask>{134e4f4e-ad79-470a-af52-ce1be25316ae}</Implicit_KindOfTask>
+    <Implicit_Jitter_Distribution>{62bd1cdd-2adc-40aa-98ff-8170c1e496be}</Implicit_Jitter_Distribution>
+    <LibraryReferences>{cac3c41a-add2-4c76-96a8-524900fe2155}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="PlcTask.TcTTO">
@@ -45,7 +45,7 @@
     </PlaceholderReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="FlashingLight.tmc">
+    <None Include="IPC_Control.tmc">
       <SubType>Content</SubType>
     </None>
   </ItemGroup>
