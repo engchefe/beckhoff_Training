@@ -5,6 +5,7 @@
 VAR
 	name 	: STRING;
 	number 	: INT;
+	basicChange : STRING;
 	
 	
 	
