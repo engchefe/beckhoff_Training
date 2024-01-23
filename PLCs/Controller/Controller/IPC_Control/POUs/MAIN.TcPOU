@@ -5,8 +5,7 @@
 VAR
 	name 	: STRING;
 	number 	: INT;
-	Intermidiate : STRING;
-		
+			
 END_VAR
 ]]></Declaration>
     <Implementation>
