@@ -5,6 +5,8 @@
 VAR
 	name 	: STRING;
 	number 	: INT;
+	advanced : STRING;
+	
 	
 END_VAR
 ]]></Declaration>
