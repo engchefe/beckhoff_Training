@@ -6,7 +6,7 @@ VAR
 	name 	: STRING;
 	number 	: INT;
 	basicChange : STRING;
-	
+	basicChange2	: STRING;
 	
 	
 END_VAR
